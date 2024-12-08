@@ -2,7 +2,10 @@ import React from 'react'
 
 function Button() {
   return (
-    <div>Button</div>
+    <div>
+      <h1>Hello world!</h1>
+      <button>Click Me!</button>
+    </div>
   )
 }
 
